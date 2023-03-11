@@ -1,0 +1,82 @@
+{
+    "list": [{
+            "id": 1,
+            "name": "扫黑",
+            "money": 28,
+            "address": "万达影院",
+            "state": 1,
+            "date": "2021-03-1",
+            "thumb": "https://image11.m1905.cn/uploadfile/2021/0423/thumb_1_224_224_20210423102858832281.jpg"
+        },
+        {
+            "id": 2,
+            "name": "悬崖之上",
+            "money": 35,
+            "address": "万达影院",
+            "state": 1,
+            "date": "2021-04-11",
+            "thumb": "https://image11.m1905.cn/uploadfile/2021/0323/thumb_1_224_224_20210323100410246713.jpg"
+        },
+        {
+            "id": 3,
+            "name": "唐人街探案3",
+            "money": 36,
+            "address": "中星影城",
+            "state": 0,
+            "date": "/",
+            "thumb": "https://image11.m1905.cn/uploadfile/2021/0115/thumb_1_224_224_20210115095544612229.jpg"
+        },
+        {
+            "id": 4,
+            "name": "我和我的家乡",
+            "money": 30,
+            "address": "中星影城",
+            "state": 1,
+            "date": "2020-10-20",
+            "thumb": "https://image11.m1905.cn/uploadfile/2020/0813/thumb_1_224_224_20200813033307407492.jpg"
+        },
+		{
+		    "id": 5,
+		    "name": "我和我的家乡",
+		    "money": 35,
+		    "address": "中星影城",
+		    "state": 1,
+		    "date": "2020-10-20",
+		    "thumb": "https://image11.m1905.cn/uploadfile/2020/0813/thumb_1_224_224_20200813033307407492.jpg"
+		}
+    ],
+    "pageTotal": 4,
+	"shuju": [{
+	        "id": 1,
+	        "name": "扫黑",
+	        "money": 28,
+			"number": 2,
+	        "address": "万达影院",
+	        "thumb": "https://image11.m1905.cn/uploadfile/2021/0423/thumb_1_224_224_20210423102858832281.jpg"
+	    },
+	    {
+	        "id": 2,
+	        "name": "悬崖之上",
+	        "money": 35,
+			"number": 1,
+	        "address": "万达影院",
+	        "thumb": "https://image11.m1905.cn/uploadfile/2021/0323/thumb_1_224_224_20210323100410246713.jpg"
+	    },
+	    {
+	        "id": 3,
+	        "name": "唐人街探案3",
+	        "money": 36,
+			"number":1,
+	        "address": "中星影城",
+	        "thumb": "https://image11.m1905.cn/uploadfile/2021/0115/thumb_1_224_224_20210115095544612229.jpg"
+	    },
+	    {
+	        "id": 4,
+	        "name": "我和我的家乡",
+	        "money": 30,
+			"number": 1,
+	        "address": "中星影城",
+	        "thumb": "https://image11.m1905.cn/uploadfile/2020/0813/thumb_1_224_224_20200813033307407492.jpg"
+	    }
+	]
+}
