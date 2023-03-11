@@ -1,4 +1,4 @@
-# vue526
+# vue520
 
 ## Project setup
 ```
